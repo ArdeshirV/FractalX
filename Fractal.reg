@@ -1,0 +1,19 @@
+REGEDIT
+; This .REG file may be used by your SETUP program.
+;   If a SETUP program is not available, the entries below will be
+;   registered in your InitInstance automatically with a call to
+;   CWinApp::RegisterShellFileTypes and COleObjectFactory::UpdateRegistryAll.
+
+HKEY_CLASSES_ROOT\.fractalx = Fractal.Document
+HKEY_CLASSES_ROOT\Fractal.Document\shell\open\command = Fractal.EXE %1
+HKEY_CLASSES_ROOT\Fractal.Document\shell\open\ddeexec = [open("%1")]
+HKEY_CLASSES_ROOT\Fractal.Document\shell\open\ddeexec\application = Fractal
+    ; note: the application is optional
+    ;  (it defaults to the app name in "command")
+HKEY_CLASSES_ROOT\Fractal.Document = Fractal Document
+HKEY_CLASSES_ROOT\Fractal.Document\CLSID = {7AB65EA6-7E41-4B14-896C-F570BA5747EC}
+
+HKEY_CLASSES_ROOT\CLSID\{7AB65EA6-7E41-4B14-896C-F570BA5747EC} = Fractal Document
+HKEY_CLASSES_ROOT\CLSID\{7AB65EA6-7E41-4B14-896C-F570BA5747EC}\ProgId = Fractal.Document
+
+HKEY_CLASSES_ROOT\CLSID\{7AB65EA6-7E41-4B14-896C-F570BA5747EC}\LocalServer32 = Fractal.EXE

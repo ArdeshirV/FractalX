@@ -1,0 +1,30 @@
+// Copyright (c) 2002-2004 ardeshirv@protonmail.com, Licensed Under GPLv3+
+// Fractal.idl : type library source for Fractal.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (Fractal.tlb).
+
+[ uuid(3AFC0217-57E5-4195-BCE3-E1D33A9E8FC7), version(4.0) ]
+library Fractal
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	//  Primary dispatch interface for CFractalDoc
+	
+	[ uuid(DF116BC7-030F-47DE-A348-CA46EA558694) ]
+	dispinterface IFractal
+	{
+		properties:
+			
+		methods:
+	};
+
+	//  Class information for CFractalDoc
+	
+	[ uuid(7AB65EA6-7E41-4B14-896C-F570BA5747EC) ]
+	coclass CFractalDoc
+	{
+		[default] dispinterface IFractal;
+	};
+};
