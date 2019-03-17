@@ -1,8 +1,8 @@
 // Copyright (c) 2002-2003 ardeshirv@protonmail.com, Licensed Under GPLv3+
 #pragma once
 
-#ifndef Saeed_CFractal_Class_1
-#define Saeed_CFractal_Class_1
+#ifndef CFractal_Class_1
+#define CFractal_Class_1
 
 #define FractalLibrary_Catch_Error_Defined
 

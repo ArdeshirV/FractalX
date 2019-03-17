@@ -1,8 +1,8 @@
 // Copyright (c) 2002-2003 ardeshirv@protonmail.com, Licensed Under GPLv3+
 #pragma once
 
-#ifndef Saeed_CSierpinski_Class_1
-#define Saeed_CSierpinski_Class_1
+#ifndef CSierpinski_Class_1
+#define CSierpinski_Class_1
 
 #include "stdafx.h"
 #include "Fractal.h"

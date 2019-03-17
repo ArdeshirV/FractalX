@@ -1,8 +1,8 @@
 // Copyright (c) 2002-2003 ardeshirv@protonmail.com, Licensed Under GPLv3+
 #pragma once
 
-#ifndef Saeed_CSnow_Class_1
-#define Saeed_CSnow_Class_1
+#ifndef CSnow_Class_1
+#define CSnow_Class_1
 
 #include "fractal.h"
 
