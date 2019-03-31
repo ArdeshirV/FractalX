@@ -1,6 +1,6 @@
 # FractalX
 
-<h4>FractalX developed during 2002 and it shows three simple fractals: Sierpinsky, Snow and Tree.</h4>
+<h3>FractalX developed during 2002 and it shows three simple fractals: Sierpinsky, Snow and Tree.</h3>
 <p>This application is developed in Visual C++ with MFC libraries about 2002 with very few changes until now except about copyright because I didn't share it's source code never before.
 The source code of FractalX is still one of the best kind of using OOP(Object Oriented Programming) who have ever seen.
 I used polymorphism with MFC dialogs that was magical art of programming.
