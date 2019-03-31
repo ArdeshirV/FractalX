@@ -3,7 +3,7 @@
 <h4>FractalX Developed during 2002 and it Shows Three Simple Fractals: Sierpinsky, Snow and Tree.<br/>
 This Application is Developed in Visual C++ with MFC Library about 2002 with very few changes until now.</h4>
 <br/>
-<h4>You can download the latest release of FractalX <a target="_blank" href="https://github.com/ArdeshirV/FractalX/releases">here</a></h4>
+<h5>You can download the latest release of FractalX <a target="_blank" href="https://github.com/ArdeshirV/FractalX/releases">here</a></h5>
 <br/>
 <img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/FractalSDIv4.png">
 <p>FractalSDI version 4.0</p>
