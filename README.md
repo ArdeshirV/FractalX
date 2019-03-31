@@ -8,14 +8,14 @@ This application is developed in Visual C++ with MFC libraries about 2002 with v
 <img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/FractalSDIv4.png">
 <p>FractalSDI version 4.0</p>
 <br/><br/>
-<img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Sierpinski.png">
 <p>Sierpinski</p>
+<img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Sierpinski.png">
 <br/><br/>
-<img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Snow.png">
 <p>Blue Snow</p>
+<img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Snow.png">
 <br/><br/>
-<img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Tree.png">
-<p>Tree with randomized branches</p>
+<p>Tree with randomized branches<br/>
+<img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Tree.png"></p>
 <br/><br/>
 <p>
   Copyright&copy; 2002-2019 <a href="mailto:ardeshirv@protonmail.com" alt="email">ardeshirv@protonmail.com</a>, Licensed under GPL<sup>v3+</sup>
