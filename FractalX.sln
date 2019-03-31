@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FractalSDI", "VSCPP-MFC-SDI-Fractal\Fractal.vcxproj", "{CAB5A84A-3873-4602-B6F7-66F034C7CC99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB5A84A-3873-4602-B6F7-66F034C7CC99}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CAB5A84A-3873-4602-B6F7-66F034C7CC99}.Debug|Win32.Build.0 = Debug|Win32
+		{CAB5A84A-3873-4602-B6F7-66F034C7CC99}.Release|Win32.ActiveCfg = Release|Win32
+		{CAB5A84A-3873-4602-B6F7-66F034C7CC99}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
