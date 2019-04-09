@@ -12,13 +12,13 @@ Khaarazmy festival is the most important technical festival in Iran</p>
 <p>FractalSDI version 4.0<br/>
 <img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/FractalSDIv4.png"></p>
 <br/>
-<p>Sierpinski<br/>
+<p>Sierpinski Triangle<br/>
 <img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Sierpinski.png"></p>
 <br/>
 <p>Blue Snow<br/>
 <img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Snow.png"></p>
 <br/>
-<p>Tree with randomized branches<br/>
+<p>Green Tree with randomized branches<br/>
 <img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Tree.png"></p>
 <br/>
 <p>
