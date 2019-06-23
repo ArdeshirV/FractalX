@@ -6,8 +6,8 @@ The source code of FractalX is still one of the best kind of using OOP(Object Or
 I used polymorphism with MFC dialogs that was magical art of programming.
 I developed the FractalX project when I was a student in a weekend.
 I wone the 3rd position of Khaarazmy festival in Tehran state of Iran by this project when I was a little student.
-It's very funny that they ignored my most important project in <a alt="" src="https://en.wikipedia.org/wiki/Khwarizmi_International_Award">Khwarizmi International Award</a> because they couldn't understand it at all and maybe they didn't believe that is mine! I had been developed the 3DVector project during one year with C#, VB.net and Delphi. I will upload it later.
-<a alt="" src="https://en.wikipedia.org/wiki/Khwarizmi_International_Award">Khwarizmi International Award</a> is the most important technical award in Iran</p>
+It's very funny that they ignored my most important project in <a target="_blank" href="https://en.wikipedia.org/wiki/Khwarizmi_International_Award">Khwarizmi International Award</a> because they couldn't understand it at all and maybe they didn't believe that is mine! I had been developed the 3DVector project during one year with C#, VB.net and Delphi. I will upload it later.
+<a target="_blank" href="https://en.wikipedia.org/wiki/Khwarizmi_International_Award">Khwarizmi International Award</a> is the most important technical award in Iran</p>
 <h4>You can download the latest release of FractalX <a target="_blank" href="https://github.com/ArdeshirV/FractalX/releases">here</a></h4><br/>
 <p>FractalSDI version 4.0<br/>
 <img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/FractalSDIv4.png"></p>
@@ -22,13 +22,13 @@ It's very funny that they ignored my most important project in <a alt="" src="ht
 <img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Tree.png"></p>
 <br/>
 <p>
-  <a alt="" src="https://en.wikipedia.org/wiki/Khwarizmi_International_Award">Khwarizmi International Award</a>
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Khwarizmi_International_Award">Khwarizmi International Award</a>
   <br/>
   <img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Jashnvarey-Khaarazmi.JPG">
 </p>
 <br/>
 <p>
-  <a alt="" src="https://en.wikipedia.org/wiki/Khwarizmi_International_Award">Khwarizmi International Award - Region 13 of Tehran</a>
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Khwarizmi_International_Award">Khwarizmi International Award - Region 13 of Tehran</a>
   <br/>
   <img alt="" src="https://raw.githubusercontent.com/ArdeshirV/FractalX/master/img/Rotbeye3Ostaan.jpg">
 </p>
